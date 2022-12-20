@@ -3,11 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/bag.xml" value="0.104" />
         <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/circle1.xml" value="0.234" />
         <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/circle2.xml" value="0.234" />
         <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/fav.xml" value="0.234" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/home.xml" value="0.234" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/ic_launcher_background.xml" value="0.234" />
         <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/leaf.xml" value="0.234" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/layout/activity_main.xml" value="0.42397914856646396" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/menu.xml" value="0.234" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/notif.xml" value="0.234" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/person.xml" value="0.234" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/sacn.xml" value="0.234" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/scan.xml" value="0.234" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/drawable/search.xml" value="0.234" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/nmadir/app/src/main/res/layout/activity_main.xml" value="0.16052631578947368" />
       </map>
     </option>
   </component>
